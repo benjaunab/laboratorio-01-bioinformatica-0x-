@@ -21,9 +21,9 @@ _R_: NPC1
 
 _R_: Otro nombre alternativo del gen es el NPC
 
-### ¿En que cromosoma esta? ¿Cuantos exones tiene? ¿Cual es su número EC?
+### ¿En que cromosoma esta? ¿Cuantos exones tiene? ¿Cuántas isoformas de transcritos?
 
-_R_: Se encuentra en el cromosoma 18, posee 29 exones 
+_R_: Se encuentra en el cromosoma 18, posee 29 exones y 
 
 
 
