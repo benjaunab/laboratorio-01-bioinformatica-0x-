@@ -1,5 +1,6 @@
 # laboratorio-01-bioinformatica
 
+## Nombre: _Benjamin Flores Oviedo_ 
 
 ## Parte 1: enfermedades geneticas y genes
 
