@@ -59,19 +59,19 @@ _R_: El gen no posse ni paralogos ni pseudogenes.
 
 ### Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?
 
-_R_:
+_R_: Los nombres del reportado por Kegg son los mismo que reporta NCBI, que son NPC1 y NPC.
 
 ### ¿En qué rutas metabólicas participa la proteina codificada por tu gen?
 
-_R_:
+_R_: participa en la ruta metabolica de los lisosomas.
 
 ### ¿Cuál es el número de identificación de tu gen (entry number)?
 
-_R_:
+_R_: 04142
 
 ### En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?
 
-_R_: 
+_R_: El gen esta presente en la base de datos de REACTOME, BioCyc y UniProt con numeros de accesos 5216153 , 06833 y O15118 respectivamente.
 
 ### ¿En qué otras rutas metabólicas está involucrado tu gen?
 
@@ -111,3 +111,7 @@ _R_:
 _R_:
 
 ### __Descarga la secuencia en formato fasta y agrégala a tu informe__
+
+## Parte 4: Buscando artículos científicos en linea
+
+
