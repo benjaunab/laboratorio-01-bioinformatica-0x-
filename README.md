@@ -52,7 +52,7 @@ _R_: Existen 217 organismos que tienen el ortologia con el gen humano NPC1.
 
 ### ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?
 
-_R_: El gen no posse ni paralogos ni pseudogenes.
+_R_: El gen presenta 17 paralogos 
 
 
 ## Parte 2: Rutas y procesos metabólicos
@@ -73,13 +73,15 @@ _R_: 04142
 
 _R_: El gen esta presente en la base de datos de REACTOME, BioCyc y UniProt con numeros de accesos 5216153 , 06833 y O15118 respectivamente.
 
+### La figura más cásica que se puede obtener es el diagrama con una ruta metabólica. Probablemente tu genestá involucrado en más de una. Escoge una y toma un pantallazo para que lo incluyas en tu informe.
+
 ### ¿En qué otras rutas metabólicas está involucrado tu gen?
 
 _R_:
 
 ### ¿Qué significan los cuadros verdes en el diagrama?
 
-_R_: 
+_R_: Los cuadros verdes representas proteinas involucradas en la ruta metabolica.
 
 ### ¿Con qué rutas se cruza la ruta metabólica?
 
