@@ -52,7 +52,7 @@ _R_: Existen 217 organismos que tienen el ortologia con el gen humano NPC1.
 
 ### ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?
 
-_R_: El gen presenta 17 paralogos 
+_R_: En la base de datos de NCBI no se encuentran reportados paralógos ni pseudogenes reportados.
 
 
 ## Parte 2: Rutas y procesos metabólicos
@@ -73,11 +73,11 @@ _R_: 04142
 
 _R_: El gen esta presente en la base de datos de REACTOME, BioCyc y UniProt con numeros de accesos 5216153 , 06833 y O15118 respectivamente.
 
-### La figura más cásica que se puede obtener es el diagrama con una ruta metabólica. Probablemente tu genestá involucrado en más de una. Escoge una y toma un pantallazo para que lo incluyas en tu informe.
+### La figura más cásica que se puede obtener es el diagrama con una ruta metabólica. Probablemente tu gen está involucrado en más de una. Escoge una y toma un pantallazo para que lo incluyas en tu informe.
 
 ### ¿En qué otras rutas metabólicas está involucrado tu gen?
 
-_R_:
+_R_: El gen NPC1 solo esta involucrado en la ruta de los lisosomas, debido a que es una proteina de transporte de colesterol tipo 2 que solo esta presente en estos organelos.
 
 ### ¿Qué significan los cuadros verdes en el diagrama?
 
@@ -85,7 +85,7 @@ _R_: Los cuadros verdes representas proteinas involucradas en la ruta metabolica
 
 ### ¿Con qué rutas se cruza la ruta metabólica?
 
-_R_:
+_R_: La proteina codificada por el gen NPC1, al encontrarse en la membrana de los lisosomas, participa en las distintas rutas de degradación como la regulacion de la autofagia y degradación de los fagosomas.  
 
 ### ¿Cuántos "dominios" forman la anotación GO? Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096
 
@@ -93,27 +93,51 @@ _R_:
 
 ### ¿A qué corresponde este término y qué información te entrega la página?Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece.
 
-_R_:
+_R_: Fosforilacion de nucleotidos, procesos metabolicos del nucleosido difosfato, procesos metabolicos de ribonucleotidos, procesos metabolicos de ATP, procesos metabolicos del piruvato, procesos metabolicos del ADP, procesos metabolicos de acidos organicos, procesos catabolicos de carbohidratos, procesos metabolicos de acidos monocarboxilicos, procesos metabolicos deribados de carbohidratos, entre varios otros.     
 
 ## Parte 3: Descargando secuencias, convirtiendo formatos.
 
-### ¿Cuántos items fueron encontrados? ¿cuántos en animales?Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq. Haz clic en la entrada para la secuencia de GAPDH de gallina.
+### ¿Cuántos items fueron encontrados? ¿cuántos en animales?Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq. Haz clic en la entrada para la secuencia de GAPDH de gallina (_Gallus gallus_).
 
+_R_: En NCBI se encontraron 35 bases de datos cada uno con una gran cantidad de items. Filtrando los datos por mRNA, animales y RefSeq. se obtuvo 439 item mRNA, 684 items de animales y un total de 25702 de item pertenecientes a RefSeq. 
 
 ### ¿Cuál es la longitud del gen?
 
-_R_:
+_R_: 1288 bp
 
 ### ¿Cuál es la referencia bibliográfica más reciente?
 
-_R_:
+_R_: La referencia bibliografica proviene del articulo "Binding chicken Anx2 is beneficial for infection with infectious bursal disease virus" publicado el 09-JUL-2017.
 
 ### ¿Cuál es el número de acceso?
 
-_R_:
+_R_: 26221766
 
 ### __Descarga la secuencia en formato fasta y agrégala a tu informe__
 
 ## Parte 4: Buscando artículos científicos en linea
+
+## ¿Son los resultados idénticos o no?
+
+_R_:
+
+## ¿En qué cambiaron los resultados de la búsqueda?
+
+_R_: 
+
+## ¿Qué encuentras en los resultados? Prueba sin el rango también
+
+_R_:
+
+## Describe tus resultados
+
+_R_:
+
+## ¿En qué cambian los resultados de la búsqueda?
+ 
+ _R_:
+ 
+ ## De nuevo, ¿en qué cambian los resultados de la búsqueda?
+
 
 
