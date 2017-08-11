@@ -115,7 +115,7 @@ _R_: 26221766
 
 ### __Descarga la secuencia en formato fasta y agrégala a tu informe__
 
-### Parte 4: Buscando artículos científicos en linea
+## Parte 4: Buscando artículos científicos en linea
 
 ### ¿Son los resultados idénticos o no?
 
