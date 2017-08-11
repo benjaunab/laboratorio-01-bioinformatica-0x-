@@ -115,29 +115,29 @@ _R_: 26221766
 
 ### __Descarga la secuencia en formato fasta y agrégala a tu informe__
 
-## Parte 4: Buscando artículos científicos en linea
+### Parte 4: Buscando artículos científicos en linea
 
-## ¿Son los resultados idénticos o no?
+### ¿Son los resultados idénticos o no?
 
 _R_: Para el caso de Human Microbiome los resultados fueron los mismos.
 
-## ¿En qué cambiaron los resultados de la búsqueda?
+### ¿En qué cambiaron los resultados de la búsqueda?
 
 _R_: En nada.  
 
-## ¿Qué encuentras en los resultados? Prueba sin el rango también
+### ¿Qué encuentras en los resultados? Prueba sin el rango también
 
 _R_: los resultados son distintos entre si.
 
-## Describe tus resultados
+### Describe tus resultados
 
 _R_: Al buscar el articulo restringido al tipo de archivo solo cambio algunas paginas encontradas.
 
-## ¿En qué cambian los resultados de la búsqueda?
+### ¿En qué cambian los resultados de la búsqueda?
  
  _R_: En este caso los resultados entregados en cada caso fueron totalmente distintos. En el caso donde se busco con "+ temperatura" los articulos encontrados relacionan tu investigacion con la temperatura, pero no es asi en el caso de "-temperatura".
  
- ## De nuevo, ¿en qué cambian los resultados de la búsqueda?
+ ### De nuevo, ¿en qué cambian los resultados de la búsqueda?
  
  _R_: Los resultados son distintos, ya que uno busca articulos que contengan el caracter "soil" o "Human pathogens", mientras el otro busca paginas que relaciones estos dos caracteres.
 
