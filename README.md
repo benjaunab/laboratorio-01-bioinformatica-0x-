@@ -40,11 +40,11 @@ _R_: Posee una longitud de 80,434 K.
 
 ### ¿Cuántas variantes de tu gen hay descritas y en qué posiciones?
 
-_R_: El gen posee 281 variantes y algunas posiciones son: Chr18:21111666, Chr18:23531702, Chr18:23531702.
+_R_: El gen posee 281 variantes y algunas posiciones son: Chr18:21111666, Chr18:21111681, Chr18:21111817.
 
 ### ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?
 
-_R_:
+_R_: Las variantes seleccionadas, en la pregunta anterior, presentan su mutacion en los extremos 3'UTR, por ende, serian sinónimas. 
 
 ### ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?
 
