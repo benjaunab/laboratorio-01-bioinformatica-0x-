@@ -119,6 +119,8 @@ _R_: 26221766
 
 [Secuencia FASTA](https://drive.google.com/file/d/0B0rzqm380_roX2luZFZwVVdMdlE/view?usp=sharing)
 
+[Secuencia NEXUS](https://drive.google.com/file/d/0B0rzqm380_roUU1KRHNkTG9XS00/view?usp=sharing)
+
 ## Parte 4: Buscando artículos científicos en linea
 
 [Alerta de busqueda NCBI PubMed](https://drive.google.com/file/d/0B0rzqm380_roelpwcms3ekpuVms/view?usp=sharing)
