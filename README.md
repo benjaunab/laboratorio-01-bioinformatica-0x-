@@ -115,7 +115,7 @@ _R_: La referencia bibliografica proviene del articulo "Binding chicken Anx2 is 
 
 _R_: 26221766
 
-### __Descarga la secuencia en formato fasta y agrégala a tu informe__
+### __Descarga la secuencia en formato fasta y nexus y agrégala a tu informe__
 
 [Secuencia FASTA](https://drive.google.com/file/d/0B0rzqm380_roX2luZFZwVVdMdlE/view?usp=sharing)
 
