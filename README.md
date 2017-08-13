@@ -91,7 +91,7 @@ _R_: La proteina codificada por el gen NPC1, al encontrarse en la membrana de lo
 
 ### ¿Cuántos "dominios" forman la anotación GO? Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096
 
-_R_: 
+_R_: Forma estos dominios: Ontology Structure, Ontology Relations, Cellular Component Ontology ,Molecular Function Ontology, Biological Process Ontology,Species-Specific Terms:Cell,Membrane proteins,Membranes and envelopes,Protein complexes,Cell Cycle,Development,Metabolic processes,Other organisms and viruses,Regulation,Detection and Response to stimulus,Sensory perception,Transport and transporters
 
 ### ¿A qué corresponde este término y qué información te entrega la página?Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece.
 
